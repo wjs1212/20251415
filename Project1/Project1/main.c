@@ -3,5 +3,8 @@
 
 int main()
 {
-	printf("#####\n#   # \n#   # \n#   # \n##### ");
+	while (1)
+	{
+		if
+	}
 }
